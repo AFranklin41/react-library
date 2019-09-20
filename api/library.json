@@ -1,0 +1,21 @@
+{
+	"books": [
+		{ "id": 1, "title": "A Big Black Bear", "available": true },
+		{
+			"id": 2,
+			"title": "A Furry Idiot's Guide to FlapJacks",
+			"available": true
+		},
+		{ "id": 3, "title": "How To Get Delicious Honies", "available": true },
+		{
+			"id": 4,
+			"title": "Mountain Climbing For Strong Bears Who Want To Rule The World",
+			"available": false
+		}
+	],
+	"patrons": [
+		{ "id": 1, "name": "Steveasaurus", "active": true },
+		{ "id": 2, "name": "Frederico", "active": true },
+		{ "id": 3, "name": "Hallie", "active": false }
+	]
+}
